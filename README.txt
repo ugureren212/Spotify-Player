@@ -6,3 +6,5 @@ To run the application use "npm start" in the terminal within the "/spotify-play
 To run the nodejs server use "nodemon server" in the terminal within the "/server" directory.
 
 The server must be ran along side the react application as the Spotify API access key requires a server.
+
+![](spotify-app.JPG)
